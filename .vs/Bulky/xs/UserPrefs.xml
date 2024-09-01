@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5E325319-0DA2-4B2F-820E-639A62BB0481}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWeb/Program.cs">
+    <Files>
+      <File FileName="Bulky.Models/Models/Product.cs" Line="15" Column="19" />
+      <File FileName="Bulky.Models/Models/Category.cs" Line="8" Column="14" />
+      <File FileName="Bulky.DataAccess/Data/ApplicationDbContext.cs" Line="101" Column="19" />
+      <File FileName="BulkyWeb/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bulky" expanded="True">
+            <Node name="Bulky.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="Bulky.Models" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="BulkyWeb" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
